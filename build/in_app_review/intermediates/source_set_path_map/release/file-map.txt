@@ -1,0 +1,14 @@
+dev.britannio.in_app_review-pngs-0 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\generated\res\pngs\release
+dev.britannio.in_app_review-resValues-1 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\generated\res\resValues\release
+dev.britannio.in_app_review-rs-2 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\generated\res\rs\release
+dev.britannio.in_app_review-mergeReleaseResources-3 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.britannio.in_app_review-mergeReleaseResources-4 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.britannio.in_app_review-merged_res-5 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\intermediates\merged_res\release
+dev.britannio.in_app_review-jetified-core-common-2.0.2-6 C:\Users\HP\.gradle\caches\transforms-3\12b3a7804e448a8ebf3d245bac84ade6\transformed\jetified-core-common-2.0.2\res
+dev.britannio.in_app_review-jetified-window-1.0.0-beta04-7 C:\Users\HP\.gradle\caches\transforms-3\5deaebdf149990256eac4ae296e186ee\transformed\jetified-window-1.0.0-beta04\res
+dev.britannio.in_app_review-jetified-window-java-1.0.0-beta04-8 C:\Users\HP\.gradle\caches\transforms-3\79990c5d8809f6b167b89b8f3b85c12b\transformed\jetified-window-java-1.0.0-beta04\res
+dev.britannio.in_app_review-jetified-play-services-basement-18.1.0-9 C:\Users\HP\.gradle\caches\transforms-3\96b6966e59add2e4656a039a27d6c01c\transformed\jetified-play-services-basement-18.1.0\res
+dev.britannio.in_app_review-core-1.6.0-10 C:\Users\HP\.gradle\caches\transforms-3\b23b527f208f5f408f42ca320a98da77\transformed\core-1.6.0\res
+dev.britannio.in_app_review-jetified-annotation-experimental-1.1.0-11 C:\Users\HP\.gradle\caches\transforms-3\e140bb1f2f6626bda53c3b2ab668a7e9\transformed\jetified-annotation-experimental-1.1.0\res
+dev.britannio.in_app_review-main-12 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_review-2.0.6\android\src\main\res
+dev.britannio.in_app_review-release-13 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_review-2.0.6\android\src\release\res

@@ -1,0 +1,24 @@
+io.flutter.plugins.googlemobileads.google_mobile_ads-pngs-0 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\generated\res\pngs\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-resValues-1 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\generated\res\resValues\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-rs-2 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\generated\res\rs\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-3 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-4 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlemobileads.google_mobile_ads-merged_res-5 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\intermediates\merged_res\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-packaged_res-6 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\webview_flutter_android\intermediates\packaged_res\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-startup-runtime-1.0.0-7 C:\Users\HP\.gradle\caches\transforms-3\0a3892c736992decb7f6f77b56731032\transformed\jetified-startup-runtime-1.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-work-runtime-2.7.0-8 C:\Users\HP\.gradle\caches\transforms-3\20fa0b76ab246a35252a508aef3f338a\transformed\work-runtime-2.7.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-appcompat-1.2.0-9 C:\Users\HP\.gradle\caches\transforms-3\2731ceac5a4e63de5b08b40e63bf36be\transformed\appcompat-1.2.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-webkit-1.7.0-10 C:\Users\HP\.gradle\caches\transforms-3\34d8bc1598a97a8fe78c70a711b4bce9\transformed\webkit-1.7.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-constraintlayout-2.1.4-11 C:\Users\HP\.gradle\caches\transforms-3\3a7be5fb59d48f2448444c33d33c7e7e\transformed\constraintlayout-2.1.4\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-ads-lite-22.0.0-12 C:\Users\HP\.gradle\caches\transforms-3\3e5e115e57f80200cd976b0cdb7ca9c5\transformed\jetified-play-services-ads-lite-22.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-window-1.0.0-beta04-13 C:\Users\HP\.gradle\caches\transforms-3\5deaebdf149990256eac4ae296e186ee\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-window-java-1.0.0-beta04-14 C:\Users\HP\.gradle\caches\transforms-3\79990c5d8809f6b167b89b8f3b85c12b\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-appcompat-resources-1.2.0-15 C:\Users\HP\.gradle\caches\transforms-3\8b57d3c795dd461e4b1e4a88c14c8193\transformed\jetified-appcompat-resources-1.2.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-core-1.6.0-16 C:\Users\HP\.gradle\caches\transforms-3\b23b527f208f5f408f42ca320a98da77\transformed\core-1.6.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-basement-18.0.0-17 C:\Users\HP\.gradle\caches\transforms-3\c40a46159dd43316f84dac01bf8e79b9\transformed\jetified-play-services-basement-18.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-base-18.0.0-18 C:\Users\HP\.gradle\caches\transforms-3\cc760a2909ed02a0c55e81b25aa33bbb\transformed\jetified-play-services-base-18.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-browser-1.4.0-19 C:\Users\HP\.gradle\caches\transforms-3\ce0eb1dabe7fd941670e837bf87f8bd7\transformed\browser-1.4.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-annotation-experimental-1.1.0-20 C:\Users\HP\.gradle\caches\transforms-3\e140bb1f2f6626bda53c3b2ab668a7e9\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-ads-22.0.0-21 C:\Users\HP\.gradle\caches\transforms-3\e359ff193ac5c2134aca10fdf9704d37\transformed\jetified-play-services-ads-22.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-main-22 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-3.0.0\android\src\main\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-release-23 C:\Users\HP\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-3.0.0\android\src\release\res

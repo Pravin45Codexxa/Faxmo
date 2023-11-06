@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875491827258",
+    "project_id": "primeweb-firebase",
+    "storage_bucket": "primeweb-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875491827258:android:63a4180f587adc29715f03",
+        "android_client_info": {
+          "package_name": "com.blizzex.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQJJk6DaU3FVmi-56ilIa7BsAzu1r_mto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875491827258:android:347f22675d1ffde7715f03",
+        "android_client_info": {
+          "package_name": "com.primeweb.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQJJk6DaU3FVmi-56ilIa7BsAzu1r_mto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

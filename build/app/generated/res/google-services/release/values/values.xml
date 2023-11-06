@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">875491827258</string>
+    <string name="google_api_key" translatable="false">AIzaSyCQJJk6DaU3FVmi-56ilIa7BsAzu1r_mto</string>
+    <string name="google_app_id" translatable="false">1:875491827258:android:63a4180f587adc29715f03</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQJJk6DaU3FVmi-56ilIa7BsAzu1r_mto</string>
+    <string name="google_storage_bucket" translatable="false">primeweb-firebase.appspot.com</string>
+    <string name="project_id" translatable="false">primeweb-firebase</string>
+</resources>
