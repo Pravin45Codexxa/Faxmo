@@ -50,7 +50,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        namespace "com.blizzex.user"
+        namespace "com.faxmo.user"
         minSdkVersion 20
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()
@@ -58,12 +58,12 @@ android {
         multiDexEnabled true
     }
 signingConfigs {
-       release {
-           keyAlias keystoreProperties['upload']
-           keyPassword keystoreProperties['password']
-           storeFile keystoreProperties['Desktop\\KEYS\\upload.jks'] ? file(keystoreProperties['Desktop\\KEYS\\upload.jks']) : null
-           storePassword keystoreProperties['password']
-       }
+    release {
+        storeFile file("C:\\Users\\HP\\Desktop\\upload.jks")
+        storePassword "password"
+        keyAlias "upload"
+        keyPassword "password"
+    }
    }
     buildTypes {
         release {

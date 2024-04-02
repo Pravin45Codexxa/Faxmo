@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.blizzex.user"
+    package="com.faxmo.user"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
@@ -64,10 +64,10 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 
     <permission
-        android:name="com.blizzex.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.faxmo.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.blizzex.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- this is mandatory -->
+    <uses-permission android:name="com.faxmo.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- this is mandatory -->
     <!-- uncomment required permissions here -->
     <!-- start enable below 5 permissions for storage permission in Android 13 -->
     <!--
@@ -95,14 +95,14 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="Blizzex"
+        android:label="FAXMO"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true" >
 
         <!-- to allow file permission -->
         <provider
             android:name="com.pichillilorenzo.flutter_inappwebview.InAppWebViewFileProvider"
-            android:authorities="com.blizzex.user.flutter_inappwebview.fileprovider"
+            android:authorities="com.faxmo.user.flutter_inappwebview.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true"
             android:usesCleartextTraffic="true" >
@@ -112,7 +112,7 @@
         </provider>
 
         <activity
-            android:name="com.blizzex.user.MainActivity"
+            android:name="com.faxmo.user.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"
@@ -243,7 +243,7 @@
 
         <provider
             android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-            android:authorities="com.blizzex.user.flutterfirebasemessaginginitprovider"
+            android:authorities="com.faxmo.user.flutterfirebasemessaginginitprovider"
             android:exported="false"
             android:initOrder="99" />
 
@@ -307,7 +307,7 @@
         -->
         <provider
             android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
-            android:authorities="com.blizzex.user.flutter.share_provider"
+            android:authorities="com.faxmo.user.flutter.share_provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -356,7 +356,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.blizzex.user.firebaseinitprovider"
+            android:authorities="com.faxmo.user.firebaseinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
@@ -373,7 +373,7 @@
 
         <provider
             android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-            android:authorities="com.blizzex.user.mobileadsinitprovider"
+            android:authorities="com.faxmo.user.mobileadsinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -410,7 +410,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.blizzex.user.androidx-startup"
+            android:authorities="com.faxmo.user.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

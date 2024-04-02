@@ -1,10 +1,10 @@
-io.flutter.plugins.firebase.messaging.firebase_messaging-packaged_res-0 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\intermediates\packaged_res\release
-io.flutter.plugins.firebase.messaging.firebase_messaging-pngs-1 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\generated\res\pngs\release
-io.flutter.plugins.firebase.messaging.firebase_messaging-resValues-2 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\generated\res\resValues\release
-io.flutter.plugins.firebase.messaging.firebase_messaging-rs-3 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\generated\res\rs\release
-io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-4 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\incremental\release\mergeReleaseResources\merged.dir
-io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-5 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-io.flutter.plugins.firebase.messaging.firebase_messaging-merged_res-6 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_res\release
+io.flutter.plugins.firebase.messaging.firebase_messaging-packaged_res-0 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.messaging.firebase_messaging-pngs-1 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\generated\res\pngs\release
+io.flutter.plugins.firebase.messaging.firebase_messaging-resValues-2 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\generated\res\resValues\release
+io.flutter.plugins.firebase.messaging.firebase_messaging-rs-3 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\generated\res\rs\release
+io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-4 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-5 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.messaging.firebase_messaging-merged_res-6 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_res\release
 io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-firebase-common-20.3.3-7 C:\Users\HP\.gradle\caches\transforms-3\30272faf7bc53235fba071dbb67802fd\transformed\jetified-firebase-common-20.3.3\res
 io.flutter.plugins.firebase.messaging.firebase_messaging-localbroadcastmanager-1.1.0-8 C:\Users\HP\.gradle\caches\transforms-3\31beea7491c37422bb4385e3dbc532a6\transformed\localbroadcastmanager-1.1.0\res
 io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-play-services-base-18.0.1-9 C:\Users\HP\.gradle\caches\transforms-3\379264fe9bebafae6b25665bd4fef9e1\transformed\jetified-play-services-base-18.0.1\res

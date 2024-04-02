@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.blizzex.user.app-mergeReleaseResources-6:/values-hu/values-hu.xml",
+            "outputFile": "com.faxmo.user.app-mergeReleaseResources-6:/values-hu/values-hu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\9f0d5e2777ccd53439bce99e51147f60\\transformed\\core-1.9.0\\res\\values-hu\\values-hu.xml",

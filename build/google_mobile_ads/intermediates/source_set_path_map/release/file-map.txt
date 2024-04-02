@@ -1,10 +1,10 @@
-io.flutter.plugins.googlemobileads.google_mobile_ads-pngs-0 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\generated\res\pngs\release
-io.flutter.plugins.googlemobileads.google_mobile_ads-resValues-1 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\generated\res\resValues\release
-io.flutter.plugins.googlemobileads.google_mobile_ads-rs-2 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\generated\res\rs\release
-io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-3 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\merged.dir
-io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-4 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-io.flutter.plugins.googlemobileads.google_mobile_ads-merged_res-5 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\intermediates\merged_res\release
-io.flutter.plugins.googlemobileads.google_mobile_ads-packaged_res-6 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\webview_flutter_android\intermediates\packaged_res\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-pngs-0 C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\generated\res\pngs\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-resValues-1 C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\generated\res\resValues\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-rs-2 C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\generated\res\rs\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-3 C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-4 C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlemobileads.google_mobile_ads-merged_res-5 C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\intermediates\merged_res\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-packaged_res-6 C:\Android Projects\Faxmo\blizzexwebapp\build\webview_flutter_android\intermediates\packaged_res\release
 io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-startup-runtime-1.0.0-7 C:\Users\HP\.gradle\caches\transforms-3\0a3892c736992decb7f6f77b56731032\transformed\jetified-startup-runtime-1.0.0\res
 io.flutter.plugins.googlemobileads.google_mobile_ads-work-runtime-2.7.0-8 C:\Users\HP\.gradle\caches\transforms-3\20fa0b76ab246a35252a508aef3f338a\transformed\work-runtime-2.7.0\res
 io.flutter.plugins.googlemobileads.google_mobile_ads-appcompat-1.2.0-9 C:\Users\HP\.gradle\caches\transforms-3\2731ceac5a4e63de5b08b40e63bf36be\transformed\appcompat-1.2.0\res

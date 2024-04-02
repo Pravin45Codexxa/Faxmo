@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.blizzex.user.app-mergeReleaseResources-6:/values-kk/values-kk.xml",
+            "outputFile": "com.faxmo.user.app-mergeReleaseResources-6:/values-kk/values-kk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\96b6966e59add2e4656a039a27d6c01c\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-kk\\values.xml",

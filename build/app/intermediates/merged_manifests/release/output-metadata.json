@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.blizzex.user",
+  "applicationId": "com.faxmo.user",
   "variantName": "release",
   "elements": [
     {

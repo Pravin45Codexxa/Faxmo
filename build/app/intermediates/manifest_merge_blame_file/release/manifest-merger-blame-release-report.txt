@@ -1,104 +1,104 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.blizzex.user"
+3    package="com.faxmo.user"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="20"
-8-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml
+8-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml
+9-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml
 10
 11    <queries>
-11-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:4:5-29:17
+11-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:4:5-29:17
 12
 13        <!-- If your app opens https URLs -->
 14        <intent>
-14-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:6:7-9:16
+14-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:6:7-9:16
 15            <action android:name="android.intent.action.VIEW" />
-15-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:7:9-61
-15-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:7:17-58
+15-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:7:9-61
+15-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:7:17-58
 16
 17            <data android:scheme="https" />
-17-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:8:15-37
+17-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:8:15-37
 18        </intent>
 19        <!-- If your app makes calls -->
 20        <intent>
-20-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:11:7-14:16
+20-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:11:7-14:16
 21            <action android:name="android.intent.action.DIAL" />
-21-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:12:9-61
-21-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:12:17-58
+21-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:12:9-61
+21-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:12:17-58
 22
 23            <data android:scheme="tel" />
-23-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:8:15-37
+23-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:8:15-37
 24        </intent>
 25        <!-- If your sends SMS messages -->
 26        <intent>
-26-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:16:7-19:16
+26-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:16:7-19:16
 27            <action android:name="android.intent.action.SENDTO" />
-27-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:17:9-63
-27-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:17:17-60
+27-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:17:9-63
+27-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:17:17-60
 28
 29            <data android:scheme="smsto" />
-29-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:8:15-37
+29-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:8:15-37
 30        </intent>
 31        <!-- If your app sends emails -->
 32        <intent>
-32-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:21:7-24:16
+32-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:21:7-24:16
 33            <action android:name="android.intent.action.SEND" />
-33-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:22:9-61
-33-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:22:17-58
+33-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:22:9-61
+33-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:22:17-58
 34
 35            <data android:mimeType="*/*" />
-35-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:23:15-37
+35-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:23:15-37
 36        </intent>
 37        <intent>
-37-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:25:8-28:16
+37-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:25:8-28:16
 38            <action android:name="android.support.customtabs.action.CustomTabsService" />
-38-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:26:9-27:69
-38-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:26:17-97
+38-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:26:9-27:69
+38-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:26:17-97
 39        </intent>
 40        <!-- For browser content -->
 41        <intent>
 41-->[com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\HP\.gradle\caches\transforms-3\3e5e115e57f80200cd976b0cdb7ca9c5\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:35:9-41:18
 42            <action android:name="android.intent.action.VIEW" />
-42-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:7:9-61
-42-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:7:17-58
+42-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:7:9-61
+42-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:7:17-58
 43
 44            <category android:name="android.intent.category.BROWSABLE" />
-44-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:104:17-78
-44-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:104:27-75
+44-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:104:17-78
+44-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:104:27-75
 45
 46            <data android:scheme="https" />
-46-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:8:15-37
+46-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:8:15-37
 47        </intent>
 48    </queries>
 49
 50    <uses-permission android:name="android.permission.INTERNET" />
-50-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:30:7-69
-50-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:30:24-66
+50-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:30:7-69
+50-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:30:24-66
 51    <uses-permission android:name="android.permission.WAKE_LOCK" />
-51-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
-51-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-65
+51-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
+51-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-65
 52    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permissions options for the `notification` group -->
-52-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
-52-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
+52-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
+52-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
 53    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-53-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-77
-53-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:13:22-74
+53-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-77
+53-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:13:22-74
 54    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-54-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
-54-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-78
+54-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
+54-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-78
 55    <uses-permission android:name="android.permission.VIBRATE" />
-55-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-66
-55-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-63
+55-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-66
+55-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-63
 56    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
-56-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-81
-56-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-78
+56-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-81
+56-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-78
 57    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-57-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-79
-57-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:12:22-76
+57-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-79
+57-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:12:22-76
 58    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 58-->[com.google.firebase:firebase-messaging:23.2.0] C:\Users\HP\.gradle\caches\transforms-3\f20127ba18f3f535653a184c2a432166\transformed\jetified-firebase-messaging-23.2.0\AndroidManifest.xml:28:5-82
 58-->[com.google.firebase:firebase-messaging:23.2.0] C:\Users\HP\.gradle\caches\transforms-3\f20127ba18f3f535653a184c2a432166\transformed\jetified-firebase-messaging-23.2.0\AndroidManifest.xml:28:22-79
@@ -111,12 +111,12 @@
 61
 62    <permission
 62-->[androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\9f0d5e2777ccd53439bce99e51147f60\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-63        android:name="com.blizzex.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+63        android:name="com.faxmo.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 63-->[androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\9f0d5e2777ccd53439bce99e51147f60\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 64        android:protectionLevel="signature" />
 64-->[androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\9f0d5e2777ccd53439bce99e51147f60\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 65
-66    <uses-permission android:name="com.blizzex.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- this is mandatory -->
+66    <uses-permission android:name="com.faxmo.user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- this is mandatory -->
 66-->[androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\9f0d5e2777ccd53439bce99e51147f60\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
 66-->[androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\9f0d5e2777ccd53439bce99e51147f60\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 67    <!-- uncomment required permissions here -->
@@ -143,56 +143,56 @@
 88    <!-- end  permissions from  list if using in your website -->
 89    <application
 90        android:name="android.app.Application"
-90-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:60:9-42
+90-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:60:9-42
 91        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 91-->[androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\9f0d5e2777ccd53439bce99e51147f60\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 92        android:icon="@mipmap/ic_launcher"
-92-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:61:9-43
-93        android:label="Blizzex"
-93-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:59:9-32
+92-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:61:9-43
+93        android:label="FAXMO"
+93-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:59:9-30
 94        android:requestLegacyExternalStorage="true"
-94-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:63:9-52
+94-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:63:9-52
 95        android:usesCleartextTraffic="true" >
-95-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:62:9-44
+95-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:62:9-44
 96
 97        <!-- to allow file permission -->
 98        <provider
 99            android:name="com.pichillilorenzo.flutter_inappwebview.InAppWebViewFileProvider"
-99-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:67:11-91
-100            android:authorities="com.blizzex.user.flutter_inappwebview.fileprovider"
-100-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:68:11-83
+99-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:67:11-91
+100            android:authorities="com.faxmo.user.flutter_inappwebview.fileprovider"
+100-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:68:11-83
 101            android:exported="false"
-101-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:69:11-35
+101-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:69:11-35
 102            android:grantUriPermissions="true"
-102-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:71:11-45
+102-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:71:11-45
 103            android:usesCleartextTraffic="true" >
-103-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:70:11-46
+103-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:70:11-46
 104            <meta-data
-104-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:72:11-74:56
+104-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:72:11-74:56
 105                android:name="android.support.FILE_PROVIDER_PATHS"
-105-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:73:15-65
+105-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:73:15-65
 106                android:resource="@xml/provider_paths" />
-106-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:74:15-53
+106-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:74:15-53
 107        </provider>
 108
 109        <activity
-109-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:76:9-108:20
-110            android:name="com.blizzex.user.MainActivity"
-110-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:77:13-41
+109-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:76:9-108:20
+110            android:name="com.faxmo.user.MainActivity"
+110-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:77:13-41
 111            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-111-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:81:13-163
+111-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:81:13-163
 112            android:exported="true"
-112-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:78:13-36
+112-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:78:13-36
 113            android:hardwareAccelerated="true"
-113-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:82:13-47
+113-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:82:13-47
 114            android:launchMode="singleTop"
-114-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:79:13-43
+114-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:79:13-43
 115            android:theme="@style/LaunchTheme"
-115-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:80:13-47
+115-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:80:13-47
 116            android:turnScreenOn="true"
-116-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:85:13-40
+116-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:85:13-40
 117            android:windowSoftInputMode="adjustResize" >
-117-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:83:13-55
+117-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:83:13-55
 118
 119            <!--
 120                 Specifies an Android theme to apply to this Activity as soon as
@@ -201,54 +201,54 @@
 123                 to determine the Window background behind the Flutter UI.
 124            -->
 125            <meta-data
-125-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:90:13-93:17
+125-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:90:13-93:17
 126                android:name="io.flutter.embedding.android.NormalTheme"
-126-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:91:15-70
+126-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:91:15-70
 127                android:resource="@style/NormalTheme" />
-127-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:92:15-52
+127-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:92:15-52
 128
 129            <intent-filter>
-129-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:94:13-97:29
+129-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:94:13-97:29
 130                <action android:name="android.intent.action.MAIN" />
-130-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:95:17-68
-130-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:95:25-66
+130-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:95:17-68
+130-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:95:25-66
 131
 132                <category android:name="android.intent.category.LAUNCHER" />
-132-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:96:17-76
-132-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:96:27-74
+132-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:96:17-76
+132-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:96:27-74
 133            </intent-filter>
 134
 135            <!-- Deep linking -->
 136            <meta-data
-136-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:100:13-90
+136-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:100:13-90
 137                android:name="flutter_deeplinking_enabled"
-137-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:100:24-66
+137-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:100:24-66
 138                android:value="true" />
-138-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:100:67-87
+138-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:100:67-87
 139
 140            <intent-filter android:autoVerify="true" >
-140-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:101:13-107:29
-140-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:101:28-53
+140-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:101:13-107:29
+140-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:101:28-53
 141                <action android:name="android.intent.action.VIEW" />
-141-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:7:9-61
-141-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:7:17-58
+141-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:7:9-61
+141-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:7:17-58
 142
 143                <category android:name="android.intent.category.DEFAULT" />
-143-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:103:17-76
-143-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:103:27-73
+143-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:103:17-76
+143-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:103:27-73
 144                <category android:name="android.intent.category.BROWSABLE" />
-144-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:104:17-78
-144-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:104:27-75
+144-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:104:17-78
+144-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:104:27-75
 145
 146                <data
 147                    android:host="android.app.Application"
-147-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:105:45-78
+147-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:105:45-78
 148                    android:pathPrefix="/"
-148-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:105:79-101
+148-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:105:79-101
 149                    android:scheme="http" />
-149-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:8:15-37
+149-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:8:15-37
 150                <data android:scheme="https" />
-150-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:8:15-37
+150-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:8:15-37
 151            </intent-filter>
 152        </activity>
 153        <!--
@@ -256,57 +256,57 @@
 155             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 156        -->
 157        <meta-data
-157-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:111:9-113:33
+157-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:111:9-113:33
 158            android:name="flutterEmbedding"
-158-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:112:13-44
+158-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:112:13-44
 159            android:value="2" />
-159-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:113:13-30
+159-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:113:13-30
 160        <meta-data
-160-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:114:9-116:59
+160-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:114:9-116:59
 161            android:name="com.google.firebase.messaging.default_notification_icon"
-161-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:115:9-79
+161-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:115:9-79
 162            android:resource="@mipmap/ic_launcher_squircle" />
-162-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:116:9-56
+162-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:116:9-56
 163        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
 164        <meta-data
-164-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:118:9-120:69
+164-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:118:9-120:69
 165            android:name="com.google.android.gms.ads.APPLICATION_ID"
-165-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:119:13-69
+165-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:119:13-69
 166            android:value="ca-app-pub-3940256099942544~3347511713" />
-166-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:120:13-67
+166-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:120:13-67
 167
 168        <service
-168-->[:firebase_dynamic_links] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_dynamic_links\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-16:19
+168-->[:firebase_dynamic_links] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_dynamic_links\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-16:19
 169            android:name="com.google.firebase.components.ComponentDiscoveryService"
-169-->[:firebase_dynamic_links] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_dynamic_links\intermediates\merged_manifest\release\AndroidManifest.xml:12:18-89
+169-->[:firebase_dynamic_links] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_dynamic_links\intermediates\merged_manifest\release\AndroidManifest.xml:12:18-89
 170            android:directBootAware="true"
 170-->[com.google.firebase:firebase-common:20.3.3] C:\Users\HP\.gradle\caches\transforms-3\30272faf7bc53235fba071dbb67802fd\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:34:13-43
 171            android:exported="false" >
 171-->[com.google.firebase:firebase-inappmessaging-display-ktx:20.3.2] C:\Users\HP\.gradle\caches\transforms-3\1397ef492dfdd976e4c816d2b9f8a32a\transformed\jetified-firebase-inappmessaging-display-ktx-20.3.2\AndroidManifest.xml:13:13-37
 172            <meta-data
-172-->[:firebase_dynamic_links] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_dynamic_links\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-15:85
+172-->[:firebase_dynamic_links] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_dynamic_links\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-15:85
 173                android:name="com.google.firebase.components:io.flutter.plugins.firebase.dynamiclinks.FlutterFirebaseAppRegistrar"
-173-->[:firebase_dynamic_links] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_dynamic_links\intermediates\merged_manifest\release\AndroidManifest.xml:14:17-131
+173-->[:firebase_dynamic_links] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_dynamic_links\intermediates\merged_manifest\release\AndroidManifest.xml:14:17-131
 174                android:value="com.google.firebase.components.ComponentRegistrar" />
-174-->[:firebase_dynamic_links] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_dynamic_links\intermediates\merged_manifest\release\AndroidManifest.xml:15:17-82
+174-->[:firebase_dynamic_links] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_dynamic_links\intermediates\merged_manifest\release\AndroidManifest.xml:15:17-82
 175            <meta-data
-175-->[:firebase_in_app_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_in_app_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-13:85
+175-->[:firebase_in_app_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_in_app_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-13:85
 176                android:name="com.google.firebase.components:io.flutter.plugins.firebase.inappmessaging.FlutterFirebaseAppRegistrar"
-176-->[:firebase_in_app_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_in_app_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:12:17-133
+176-->[:firebase_in_app_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_in_app_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:12:17-133
 177                android:value="com.google.firebase.components.ComponentRegistrar" />
-177-->[:firebase_in_app_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_in_app_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:13:17-82
+177-->[:firebase_in_app_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_in_app_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:13:17-82
 178            <meta-data
-178-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-40:85
+178-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-40:85
 179                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-179-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:39:17-128
+179-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:39:17-128
 180                android:value="com.google.firebase.components.ComponentRegistrar" />
-180-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:40:17-82
+180-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:40:17-82
 181            <meta-data
-181-->[:firebase_core] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-13:85
+181-->[:firebase_core] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-13:85
 182                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-182-->[:firebase_core] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:12:17-124
+182-->[:firebase_core] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:12:17-124
 183                android:value="com.google.firebase.components.ComponentRegistrar" />
-183-->[:firebase_core] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:13:17-82
+183-->[:firebase_core] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\intermediates\merged_manifest\release\AndroidManifest.xml:13:17-82
 184            <meta-data
 184-->[com.google.firebase:firebase-inappmessaging-display-ktx:20.3.2] C:\Users\HP\.gradle\caches\transforms-3\1397ef492dfdd976e4c816d2b9f8a32a\transformed\jetified-firebase-inappmessaging-display-ktx-20.3.2\AndroidManifest.xml:14:13-16:85
 185                android:name="com.google.firebase.components:com.google.firebase.inappmessaging.display.ktx.FirebaseInAppMessagingDisplayKtxRegistrar"
@@ -375,196 +375,196 @@
 216-->[com.google.firebase:firebase-abt:21.1.1] C:\Users\HP\.gradle\caches\transforms-3\61ac35acb327f74e6df29bb1af7d3c07\transformed\jetified-firebase-abt-21.1.1\AndroidManifest.xml:14:17-82
 217        </service>
 218        <service
-218-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-19:72
+218-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-19:72
 219            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-219-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-107
+219-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-107
 220            android:exported="false"
-220-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+220-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
 221            android:permission="android.permission.BIND_JOB_SERVICE" />
-221-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-69
+221-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-69
 222        <service
-222-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-26:19
+222-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-26:19
 223            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-223-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-97
+223-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-97
 224            android:exported="false" >
-224-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-37
+224-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-37
 225            <intent-filter>
-225-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-25:29
+225-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-25:29
 226                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-226-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:24:17-78
-226-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:24:25-75
+226-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:24:17-78
+226-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:24:25-75
 227            </intent-filter>
 228        </service>
 229
 230        <receiver
-230-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-35:20
+230-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-35:20
 231            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-231-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-98
+231-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-98
 232            android:exported="true"
-232-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-36
+232-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-36
 233            android:permission="com.google.android.c2dm.permission.SEND" >
-233-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-73
+233-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-73
 234            <intent-filter>
-234-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-34:29
+234-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-34:29
 235                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-235-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:33:17-81
-235-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:33:25-78
+235-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:33:17-81
+235-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:33:25-78
 236            </intent-filter>
 237        </receiver>
 238
 239        <provider
-239-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-47:38
+239-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-47:38
 240            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-240-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-102
-241            android:authorities="com.blizzex.user.flutterfirebasemessaginginitprovider"
-241-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-88
+240-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-102
+241            android:authorities="com.faxmo.user.flutterfirebasemessaginginitprovider"
+241-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-88
 242            android:exported="false"
-242-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-37
+242-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-37
 243            android:initOrder="99" />
-243-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-35
+243-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-35
 244
 245        <receiver
-245-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-18:40
+245-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-18:40
 246            android:name="com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver"
-246-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-91
+246-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-91
 247            android:exported="false" />
-247-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+247-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
 248        <receiver
-248-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-21:40
+248-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-21:40
 249            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver"
-249-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-97
+249-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-97
 250            android:exported="false" />
-250-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-37
+250-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-37
 251        <receiver
-251-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-31:20
+251-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-31:20
 252            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver"
-252-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-101
+252-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-101
 253            android:exported="false" >
-253-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:24:13-37
+253-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:24:13-37
 254            <intent-filter>
-254-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:25:13-30:29
+254-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:25:13-30:29
 255                <action android:name="android.intent.action.BOOT_COMPLETED" />
-255-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:26:17-79
-255-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:26:25-76
+255-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:26:17-79
+255-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:26:25-76
 256                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
-256-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:27:17-84
-256-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:27:25-81
+256-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:27:17-84
+256-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:27:25-81
 257                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-257-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:28:17-82
-257-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:28:25-79
+257-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:28:17-82
+257-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:28:25-79
 258                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
-258-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:29:17-82
-258-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:29:25-79
+258-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:29:17-82
+258-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:29:25-79
 259            </intent-filter>
 260        </receiver>
 261
 262        <activity
-262-->[:url_launcher_android] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+262-->[:url_launcher_android] C:\Android Projects\Faxmo\blizzexwebapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
 263            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-263-->[:url_launcher_android] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+263-->[:url_launcher_android] C:\Android Projects\Faxmo\blizzexwebapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
 264            android:exported="false"
-264-->[:url_launcher_android] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+264-->[:url_launcher_android] C:\Android Projects\Faxmo\blizzexwebapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
 265            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-265-->[:url_launcher_android] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+265-->[:url_launcher_android] C:\Android Projects\Faxmo\blizzexwebapp\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
 266
 267        <meta-data
-267-->[:google_mobile_ads] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-14:36
+267-->[:google_mobile_ads] C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-14:36
 268            android:name="io.flutter.embedded_views_preview"
-268-->[:google_mobile_ads] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-61
+268-->[:google_mobile_ads] C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-61
 269            android:value="true" />
-269-->[:google_mobile_ads] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-33
+269-->[:google_mobile_ads] C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-33
 270
 271        <activity
-271-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-20:47
+271-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-20:47
 272            android:name="com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity"
-272-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-104
+272-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-104
 273            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
-273-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-137
+273-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-137
 274            android:exported="false"
-274-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-37
+274-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-37
 275            android:theme="@style/AppTheme" />
-275-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-44
+275-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-44
 276        <activity
-276-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-24:55
+276-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-24:55
 277            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity"
-277-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-112
+277-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-112
 278            android:exported="false"
-278-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-37
+278-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-37
 279            android:theme="@style/ThemeTransparent" />
-279-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:24:13-52
+279-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:24:13-52
 280        <activity
-280-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-28:55
+280-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-28:55
 281            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity"
-281-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-106
+281-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-106
 282            android:exported="false"
-282-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-37
+282-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-37
 283            android:theme="@style/ThemeTransparent" />
-283-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-52
+283-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-52
 284        <activity
-284-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-33:55
+284-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-33:55
 285            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance"
-285-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-126
+285-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-126
 286            android:exported="false"
-286-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-37
+286-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-37
 287            android:launchMode="singleInstance"
-287-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-48
+287-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-48
 288            android:theme="@style/ThemeTransparent" />
-288-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-52
+288-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:33:13-52
 289        <activity
-289-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-38:55
+289-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-38:55
 290            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance"
-290-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-120
+290-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-120
 291            android:exported="false"
-291-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-37
+291-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-37
 292            android:launchMode="singleInstance"
-292-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-48
+292-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-48
 293            android:theme="@style/ThemeTransparent" />
-293-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-52
+293-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-52
 294
 295        <receiver
-295-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-43:40
+295-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-43:40
 296            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver"
-296-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-111
+296-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-111
 297            android:enabled="true"
-297-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-35
+297-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-35
 298            android:exported="false" />
-298-->[:flutter_inappwebview] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-37
+298-->[:flutter_inappwebview] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-37
 299        <!--
 300           Declares a provider which allows us to store files to share in
 301           '.../caches/share_plus' and grant the receiving action access
 302        -->
 303        <provider
-303-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:20
+303-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:20
 304            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
-304-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-77
-305            android:authorities="com.blizzex.user.flutter.share_provider"
-305-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-74
+304-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-77
+305            android:authorities="com.faxmo.user.flutter.share_provider"
+305-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-74
 306            android:exported="false"
-306-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+306-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
 307            android:grantUriPermissions="true" >
-307-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-47
+307-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-47
 308            <meta-data
-308-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:72:11-74:56
+308-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:72:11-74:56
 309                android:name="android.support.FILE_PROVIDER_PATHS"
-309-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:73:15-65
+309-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:73:15-65
 310                android:resource="@xml/flutter_share_file_paths" />
-310-->C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\AndroidManifest.xml:74:15-53
+310-->C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\AndroidManifest.xml:74:15-53
 311        </provider>
 312        <!--
 313           This manifest declared broadcast receiver allows us to use an explicit
 314           Intent when creating a PendingItent to be informed of the user's choice
 315        -->
 316        <receiver
-316-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-34:20
+316-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-34:20
 317            android:name="dev.fluttercommunity.plus.share.SharePlusPendingIntent"
-317-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-82
+317-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-82
 318            android:exported="false" >
-318-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-37
+318-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-37
 319            <intent-filter>
-319-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-33:29
+319-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-33:29
 320                <action android:name="EXTRA_CHOSEN_COMPONENT" />
-320-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:17-65
-320-->[:share_plus] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:25-62
+320-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:17-65
+320-->[:share_plus] C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:25-62
 321            </intent-filter>
 322        </receiver>
 323
@@ -590,10 +590,10 @@
 334            android:permission="com.google.android.c2dm.permission.SEND" >
 334-->[com.google.firebase:firebase-messaging:23.2.0] C:\Users\HP\.gradle\caches\transforms-3\f20127ba18f3f535653a184c2a432166\transformed\jetified-firebase-messaging-23.2.0\AndroidManifest.xml:34:13-73
 335            <intent-filter>
-335-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-34:29
+335-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:32:13-34:29
 336                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-336-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:33:17-81
-336-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:33:25-78
+336-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:33:17-81
+336-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:33:25-78
 337            </intent-filter>
 338        </receiver>
 339        <!--
@@ -609,10 +609,10 @@
 346            android:exported="false" >
 346-->[com.google.firebase:firebase-messaging:23.2.0] C:\Users\HP\.gradle\caches\transforms-3\f20127ba18f3f535653a184c2a432166\transformed\jetified-firebase-messaging-23.2.0\AndroidManifest.xml:47:13-37
 347            <intent-filter android:priority="-500" >
-347-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-25:29
+347-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-25:29
 348                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-348-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:24:17-78
-348-->[:firebase_messaging] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:24:25-75
+348-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:24:17-78
+348-->[:firebase_messaging] C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\merged_manifest\release\AndroidManifest.xml:24:25-75
 349            </intent-filter>
 350        </service>
 351
@@ -620,7 +620,7 @@
 352-->[com.google.firebase:firebase-common:20.3.3] C:\Users\HP\.gradle\caches\transforms-3\30272faf7bc53235fba071dbb67802fd\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
 353            android:name="com.google.firebase.provider.FirebaseInitProvider"
 353-->[com.google.firebase:firebase-common:20.3.3] C:\Users\HP\.gradle\caches\transforms-3\30272faf7bc53235fba071dbb67802fd\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:26:13-77
-354            android:authorities="com.blizzex.user.firebaseinitprovider"
+354            android:authorities="com.faxmo.user.firebaseinitprovider"
 354-->[com.google.firebase:firebase-common:20.3.3] C:\Users\HP\.gradle\caches\transforms-3\30272faf7bc53235fba071dbb67802fd\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:27:13-72
 355            android:directBootAware="true"
 355-->[com.google.firebase:firebase-common:20.3.3] C:\Users\HP\.gradle\caches\transforms-3\30272faf7bc53235fba071dbb67802fd\transformed\jetified-firebase-common-20.3.3\AndroidManifest.xml:28:13-43
@@ -652,7 +652,7 @@
 369-->[com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\HP\.gradle\caches\transforms-3\3e5e115e57f80200cd976b0cdb7ca9c5\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:60:9-65:43
 370            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
 370-->[com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\HP\.gradle\caches\transforms-3\3e5e115e57f80200cd976b0cdb7ca9c5\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:61:13-76
-371            android:authorities="com.blizzex.user.mobileadsinitprovider"
+371            android:authorities="com.faxmo.user.mobileadsinitprovider"
 371-->[com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\HP\.gradle\caches\transforms-3\3e5e115e57f80200cd976b0cdb7ca9c5\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:62:13-73
 372            android:exported="false"
 372-->[com.google.android.gms:play-services-ads-lite:22.0.0] C:\Users\HP\.gradle\caches\transforms-3\3e5e115e57f80200cd976b0cdb7ca9c5\transformed\jetified-play-services-ads-lite-22.0.0\AndroidManifest.xml:63:13-37
@@ -718,7 +718,7 @@
 406-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\36fe8e7d48bf7c0cbd48de7db67ff602\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 407            android:name="androidx.startup.InitializationProvider"
 407-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\36fe8e7d48bf7c0cbd48de7db67ff602\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-408            android:authorities="com.blizzex.user.androidx-startup"
+408            android:authorities="com.faxmo.user.androidx-startup"
 408-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\36fe8e7d48bf7c0cbd48de7db67ff602\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
 409            android:exported="false" >
 409-->[androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\36fe8e7d48bf7c0cbd48de7db67ff602\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
@@ -875,8 +875,8 @@
 487            <intent-filter>
 487-->[androidx.work:work-runtime:2.7.0] C:\Users\HP\.gradle\caches\transforms-3\20fa0b76ab246a35252a508aef3f338a\transformed\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
 488                <action android:name="android.intent.action.BOOT_COMPLETED" />
-488-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:26:17-79
-488-->[:flutter_local_notifications] C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:26:25-76
+488-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:26:17-79
+488-->[:flutter_local_notifications] C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:26:25-76
 489                <action android:name="android.intent.action.TIME_SET" />
 489-->[androidx.work:work-runtime:2.7.0] C:\Users\HP\.gradle\caches\transforms-3\20fa0b76ab246a35252a508aef3f338a\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
 489-->[androidx.work:work-runtime:2.7.0] C:\Users\HP\.gradle\caches\transforms-3\20fa0b76ab246a35252a508aef3f338a\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:25-70

@@ -1,9 +1,9 @@
-dev.britannio.in_app_review-pngs-0 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\generated\res\pngs\release
-dev.britannio.in_app_review-resValues-1 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\generated\res\resValues\release
-dev.britannio.in_app_review-rs-2 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\generated\res\rs\release
-dev.britannio.in_app_review-mergeReleaseResources-3 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\intermediates\incremental\release\mergeReleaseResources\merged.dir
-dev.britannio.in_app_review-mergeReleaseResources-4 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-dev.britannio.in_app_review-merged_res-5 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\intermediates\merged_res\release
+dev.britannio.in_app_review-pngs-0 C:\Android Projects\Faxmo\blizzexwebapp\build\in_app_review\generated\res\pngs\release
+dev.britannio.in_app_review-resValues-1 C:\Android Projects\Faxmo\blizzexwebapp\build\in_app_review\generated\res\resValues\release
+dev.britannio.in_app_review-rs-2 C:\Android Projects\Faxmo\blizzexwebapp\build\in_app_review\generated\res\rs\release
+dev.britannio.in_app_review-mergeReleaseResources-3 C:\Android Projects\Faxmo\blizzexwebapp\build\in_app_review\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.britannio.in_app_review-mergeReleaseResources-4 C:\Android Projects\Faxmo\blizzexwebapp\build\in_app_review\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.britannio.in_app_review-merged_res-5 C:\Android Projects\Faxmo\blizzexwebapp\build\in_app_review\intermediates\merged_res\release
 dev.britannio.in_app_review-jetified-core-common-2.0.2-6 C:\Users\HP\.gradle\caches\transforms-3\12b3a7804e448a8ebf3d245bac84ade6\transformed\jetified-core-common-2.0.2\res
 dev.britannio.in_app_review-jetified-window-1.0.0-beta04-7 C:\Users\HP\.gradle\caches\transforms-3\5deaebdf149990256eac4ae296e186ee\transformed\jetified-window-1.0.0-beta04\res
 dev.britannio.in_app_review-jetified-window-java-1.0.0-beta04-8 C:\Users\HP\.gradle\caches\transforms-3\79990c5d8809f6b167b89b8f3b85c12b\transformed\jetified-window-java-1.0.0-beta04\res

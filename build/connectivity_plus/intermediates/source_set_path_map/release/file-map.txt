@@ -1,9 +1,9 @@
-dev.fluttercommunity.plus.connectivity.connectivity_plus-pngs-0 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\connectivity_plus\generated\res\pngs\release
-dev.fluttercommunity.plus.connectivity.connectivity_plus-resValues-1 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\connectivity_plus\generated\res\resValues\release
-dev.fluttercommunity.plus.connectivity.connectivity_plus-rs-2 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\connectivity_plus\generated\res\rs\release
-dev.fluttercommunity.plus.connectivity.connectivity_plus-mergeReleaseResources-3 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\connectivity_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
-dev.fluttercommunity.plus.connectivity.connectivity_plus-mergeReleaseResources-4 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\connectivity_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-dev.fluttercommunity.plus.connectivity.connectivity_plus-merged_res-5 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\connectivity_plus\intermediates\merged_res\release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-pngs-0 C:\Android Projects\Faxmo\blizzexwebapp\build\connectivity_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-resValues-1 C:\Android Projects\Faxmo\blizzexwebapp\build\connectivity_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-rs-2 C:\Android Projects\Faxmo\blizzexwebapp\build\connectivity_plus\generated\res\rs\release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-mergeReleaseResources-3 C:\Android Projects\Faxmo\blizzexwebapp\build\connectivity_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.connectivity.connectivity_plus-mergeReleaseResources-4 C:\Android Projects\Faxmo\blizzexwebapp\build\connectivity_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.connectivity.connectivity_plus-merged_res-5 C:\Android Projects\Faxmo\blizzexwebapp\build\connectivity_plus\intermediates\merged_res\release
 dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-window-1.0.0-beta04-6 C:\Users\HP\.gradle\caches\transforms-3\5deaebdf149990256eac4ae296e186ee\transformed\jetified-window-1.0.0-beta04\res
 dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-window-java-1.0.0-beta04-7 C:\Users\HP\.gradle\caches\transforms-3\79990c5d8809f6b167b89b8f3b85c12b\transformed\jetified-window-java-1.0.0-beta04\res
 dev.fluttercommunity.plus.connectivity.connectivity_plus-core-1.6.0-8 C:\Users\HP\.gradle\caches\transforms-3\b23b527f208f5f408f42ca320a98da77\transformed\core-1.6.0\res

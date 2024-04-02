@@ -495,11 +495,11 @@ class _LoadWebViewState extends State<LoadWebView>
                           'Url is not valid',
                           style: Theme.of(context).textTheme.bodyLarge,
                         )),
-                  isLoading
+                 /* isLoading
                       ? Center(
                           child: CircularProgressIndicator(),
                         )
-                      : SizedBox(height: 0, width: 0),
+                      : SizedBox(height: 0, width: 0),*/
                   noInternet
                       ? Center(
                           child: NoInternetWidget(),

@@ -206,7 +206,6 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     navigatorKey.currentState!.pushReplacement(MaterialPageRoute(
         builder: (_) => const MyHomePage(
               webUrl: webinitialUrl,
-            
             )));
   }
 }

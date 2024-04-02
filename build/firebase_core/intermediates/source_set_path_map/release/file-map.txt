@@ -1,9 +1,9 @@
-io.flutter.plugins.firebase.core.firebase_core-pngs-0 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\generated\res\pngs\release
-io.flutter.plugins.firebase.core.firebase_core-resValues-1 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\generated\res\resValues\release
-io.flutter.plugins.firebase.core.firebase_core-rs-2 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\generated\res\rs\release
-io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-3 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
-io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-4 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-io.flutter.plugins.firebase.core.firebase_core-merged_res-5 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\intermediates\merged_res\release
+io.flutter.plugins.firebase.core.firebase_core-pngs-0 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-1 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-2 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-3 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-4 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-5 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\intermediates\merged_res\release
 io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.3.3-6 C:\Users\HP\.gradle\caches\transforms-3\30272faf7bc53235fba071dbb67802fd\transformed\jetified-firebase-common-20.3.3\res
 io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-7 C:\Users\HP\.gradle\caches\transforms-3\5deaebdf149990256eac4ae296e186ee\transformed\jetified-window-1.0.0-beta04\res
 io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-8 C:\Users\HP\.gradle\caches\transforms-3\79990c5d8809f6b167b89b8f3b85c12b\transformed\jetified-window-java-1.0.0-beta04\res

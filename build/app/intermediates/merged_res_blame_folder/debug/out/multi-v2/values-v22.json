@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.blizzex.user.app-mergeDebugResources-6:/values-v22/values-v22.xml",
+            "outputFile": "com.faxmo.user.app-mergeDebugResources-42:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\a93457358a4d2fc700bdb89cdeb1c992\\transformed\\appcompat-1.5.1\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\a93457358a4d2fc700bdb89cdeb1c992\\transformed\\appcompat-1.5.1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

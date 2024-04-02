@@ -73,7 +73,7 @@ class _NotFoundState extends State<NotFound> {
           const SizedBox(
             height: 20,
           ),
-          _isLoading
+         /* _isLoading
               ? CircularProgressIndicator(
                   color: Theme.of(context).primaryColor,
                 )
@@ -97,7 +97,7 @@ class _NotFoundState extends State<NotFound> {
                       });
                     });
                   },
-                ),
+                ),*/
         ],
       ),
     );

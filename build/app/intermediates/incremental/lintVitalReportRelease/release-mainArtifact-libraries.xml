@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\intermediates\flutter\release\libs.jar"
-      resolved="__local_aars__:C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
+      name="__local_aars__:C:\Android Projects\Faxmo\blizzexwebapp\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\app\intermediates\flutter\release\libs.jar"
+      resolved="__local_aars__:C:\Android Projects\Faxmo\blizzexwebapp\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:firebase_dynamic_links::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_dynamic_links\.transforms\23417b081a6c2925b39e78ec2defb39f\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_dynamic_links\.transforms\23417b081a6c2925b39e78ec2defb39f\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:firebase_dynamic_links::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_dynamic_links\.transforms\31ab00448caef284a5b625b4834b0746\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_dynamic_links\.transforms\31ab00448caef284a5b625b4834b0746\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.firebase.dynamiclinks:firebase_dynamic_links:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_dynamic_links\.transforms\23417b081a6c2925b39e78ec2defb39f\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_dynamic_links\.transforms\31ab00448caef284a5b625b4834b0746\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:firebase_in_app_messaging::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_in_app_messaging\.transforms\e02b830b13450f73a973cad59197c591\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_in_app_messaging\.transforms\e02b830b13450f73a973cad59197c591\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:firebase_in_app_messaging::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_in_app_messaging\.transforms\ac9f6d0a4b4c1761fa3dd933a57528a1\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_in_app_messaging\.transforms\ac9f6d0a4b4c1761fa3dd933a57528a1\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.firebase.inappmessaging:firebase_in_app_messaging:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_in_app_messaging\.transforms\e02b830b13450f73a973cad59197c591\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_in_app_messaging\.transforms\ac9f6d0a4b4c1761fa3dd933a57528a1\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:firebase_messaging::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\.transforms\85c38eccc55d97f5ade082fd8a3b70ba\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\.transforms\85c38eccc55d97f5ade082fd8a3b70ba\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:firebase_messaging::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\.transforms\9c5cc371fc9aee7932ef24e2b01221ba\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\.transforms\9c5cc371fc9aee7932ef24e2b01221ba\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.firebasemessaging:firebase_messaging:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\.transforms\85c38eccc55d97f5ade082fd8a3b70ba\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\.transforms\9c5cc371fc9aee7932ef24e2b01221ba\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -43,10 +43,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:firebase_core::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\.transforms\307c6815aa9c59a526f8794e2929ba10\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\.transforms\307c6815aa9c59a526f8794e2929ba10\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:firebase_core::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\.transforms\df759ead44e6575a58f0d049dff4dc95\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\.transforms\df759ead44e6575a58f0d049dff4dc95\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.firebase.core:firebase_core:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\.transforms\307c6815aa9c59a526f8794e2929ba10\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\.transforms\df759ead44e6575a58f0d049dff4dc95\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -56,10 +56,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:flutter_local_notifications::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\.transforms\f2b960762c5b683fb65a877d91a82494\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\.transforms\f2b960762c5b683fb65a877d91a82494\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:flutter_local_notifications::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\.transforms\b991e931454772cc176b0abc288d602f\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\.transforms\b991e931454772cc176b0abc288d602f\transformed\out\jars\libs\R.jar"
       resolved="com.dexterous.flutterlocalnotifications:flutter_local_notifications:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\.transforms\f2b960762c5b683fb65a877d91a82494\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\.transforms\b991e931454772cc176b0abc288d602f\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -69,10 +69,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:in_app_review::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\.transforms\c2552292d1050c33064ef85e7b966d47\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\.transforms\c2552292d1050c33064ef85e7b966d47\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:in_app_review::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\in_app_review\.transforms\eb75ecc9f0d0da5a4c427f92f004813f\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\in_app_review\.transforms\eb75ecc9f0d0da5a4c427f92f004813f\transformed\out\jars\libs\R.jar"
       resolved="dev.britannio.in_app_review:in_app_review:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\.transforms\c2552292d1050c33064ef85e7b966d47\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\in_app_review\.transforms\eb75ecc9f0d0da5a4c427f92f004813f\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -82,10 +82,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:url_launcher_android::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\url_launcher_android\.transforms\7db3c9e24915d82be40b5953fc39325d\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\url_launcher_android\.transforms\7db3c9e24915d82be40b5953fc39325d\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:url_launcher_android::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\url_launcher_android\.transforms\c5035506a4a897d84627fffb87a1ac3b\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\url_launcher_android\.transforms\c5035506a4a897d84627fffb87a1ac3b\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.urllauncher:url_launcher_android:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\url_launcher_android\.transforms\7db3c9e24915d82be40b5953fc39325d\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\url_launcher_android\.transforms\c5035506a4a897d84627fffb87a1ac3b\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -95,10 +95,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:path_provider_android::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\path_provider_android\.transforms\a32bd6eaaf3afdf76450e1726ff0bf55\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\path_provider_android\.transforms\a32bd6eaaf3afdf76450e1726ff0bf55\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:path_provider_android::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\path_provider_android\.transforms\51d8d4874abcb58d33f09237bd8546aa\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\path_provider_android\.transforms\51d8d4874abcb58d33f09237bd8546aa\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.pathprovider:path_provider_android:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\path_provider_android\.transforms\a32bd6eaaf3afdf76450e1726ff0bf55\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\path_provider_android\.transforms\51d8d4874abcb58d33f09237bd8546aa\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -108,10 +108,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:connectivity_plus::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\connectivity_plus\.transforms\ace27d31df8e45bfe4a0b118f61eda6a\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\connectivity_plus\.transforms\ace27d31df8e45bfe4a0b118f61eda6a\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:connectivity_plus::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\connectivity_plus\.transforms\e17751be0399d7f8aca1d6dd6d684ef5\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\connectivity_plus\.transforms\e17751be0399d7f8aca1d6dd6d684ef5\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.connectivity:connectivity_plus:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\connectivity_plus\.transforms\ace27d31df8e45bfe4a0b118f61eda6a\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\connectivity_plus\.transforms\e17751be0399d7f8aca1d6dd6d684ef5\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -121,10 +121,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:webview_flutter_android::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\webview_flutter_android\.transforms\e0fc1904d91e29fb679c105369e574d7\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\webview_flutter_android\.transforms\e0fc1904d91e29fb679c105369e574d7\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:webview_flutter_android::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\webview_flutter_android\.transforms\49a026614f53ffc9b92ba2e15aa9878e\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\webview_flutter_android\.transforms\49a026614f53ffc9b92ba2e15aa9878e\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.webviewflutter:webview_flutter_android:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\webview_flutter_android\.transforms\e0fc1904d91e29fb679c105369e574d7\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\webview_flutter_android\.transforms\49a026614f53ffc9b92ba2e15aa9878e\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -134,10 +134,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:shared_preferences_android::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\shared_preferences_android\.transforms\75cde4bdd44d9404a86318f9cd5eac09\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\shared_preferences_android\.transforms\75cde4bdd44d9404a86318f9cd5eac09\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:shared_preferences_android::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\shared_preferences_android\.transforms\d5814cbd9e7c5eaa0f8f2e96865874a2\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\shared_preferences_android\.transforms\d5814cbd9e7c5eaa0f8f2e96865874a2\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.sharedpreferences:shared_preferences_android:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\shared_preferences_android\.transforms\75cde4bdd44d9404a86318f9cd5eac09\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\shared_preferences_android\.transforms\d5814cbd9e7c5eaa0f8f2e96865874a2\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -147,10 +147,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:permission_handler_android::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\permission_handler_android\.transforms\889974a99d8d35ead638d049e5d98d81\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\permission_handler_android\.transforms\889974a99d8d35ead638d049e5d98d81\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:permission_handler_android::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\permission_handler_android\.transforms\7fce10aa56c17b7fc6ca34bd330bcfe2\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\permission_handler_android\.transforms\7fce10aa56c17b7fc6ca34bd330bcfe2\transformed\out\jars\libs\R.jar"
       resolved="com.baseflow.permissionhandler:permission_handler_android:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\permission_handler_android\.transforms\889974a99d8d35ead638d049e5d98d81\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\permission_handler_android\.transforms\7fce10aa56c17b7fc6ca34bd330bcfe2\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -160,10 +160,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:flutter_inappwebview::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\.transforms\e9dacb3ade7867734d8a217fd4f6829d\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\.transforms\e9dacb3ade7867734d8a217fd4f6829d\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:flutter_inappwebview::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\.transforms\f8e27bf0557957c2d31c8195e34fe898\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\.transforms\f8e27bf0557957c2d31c8195e34fe898\transformed\out\jars\libs\R.jar"
       resolved="com.pichillilorenzo.flutter_inappwebview:flutter_inappwebview:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\.transforms\e9dacb3ade7867734d8a217fd4f6829d\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\.transforms\f8e27bf0557957c2d31c8195e34fe898\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -173,10 +173,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:google_mobile_ads::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\.transforms\980fd7b18e87f3acb172cf155a927b37\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\.transforms\980fd7b18e87f3acb172cf155a927b37\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:google_mobile_ads::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\.transforms\002694df3c9fb4e9f8ad5e2a09bb0a83\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\.transforms\002694df3c9fb4e9f8ad5e2a09bb0a83\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.googlemobileads:google_mobile_ads:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\.transforms\980fd7b18e87f3acb172cf155a927b37\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\.transforms\002694df3c9fb4e9f8ad5e2a09bb0a83\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -186,10 +186,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:share_plus::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\.transforms\f3206a69c7ecd50daa3a50b15e6431d1\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\.transforms\f3206a69c7ecd50daa3a50b15e6431d1\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:share_plus::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\.transforms\d3b298bf16ca7b61c92e13cc93be0397\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\.transforms\d3b298bf16ca7b61c92e13cc93be0397\transformed\out\jars\libs\R.jar"
       resolved="dev.fluttercommunity.plus.share:share_plus:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\.transforms\f3206a69c7ecd50daa3a50b15e6431d1\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\.transforms\d3b298bf16ca7b61c92e13cc93be0397\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -199,10 +199,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android@@:device_info_plus::release"
-      jars="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\device_info_plus\.transforms\dcde551f3d4f98950e29f518c922cc7c\transformed\out\jars\classes.jar;C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\device_info_plus\.transforms\dcde551f3d4f98950e29f518c922cc7c\transformed\out\jars\libs\R.jar"
+      name="C:\Android Projects\Faxmo\blizzexwebapp\android@@:device_info_plus::release"
+      jars="C:\Android Projects\Faxmo\blizzexwebapp\build\device_info_plus\.transforms\819f298aec03efd1cbcc89bf180c3651\transformed\out\jars\classes.jar;C:\Android Projects\Faxmo\blizzexwebapp\build\device_info_plus\.transforms\819f298aec03efd1cbcc89bf180c3651\transformed\out\jars\libs\R.jar"
       resolved="dev.fluttercommunity.plus.device_info:device_info_plus:unspecified"
-      folder="C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\device_info_plus\.transforms\dcde551f3d4f98950e29f518c922cc7c\transformed\out"
+      folder="C:\Android Projects\Faxmo\blizzexwebapp\build\device_info_plus\.transforms\819f298aec03efd1cbcc89bf180c3651\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -251,9 +251,9 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="io.flutter:flutter_embedding_release:1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad@jar"
-      jars="C:\Users\HP\.gradle\caches\modules-2\files-2.1\io.flutter\flutter_embedding_release\1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad\548fe332b0f08ee721485448f81eac3a4b80aef1\flutter_embedding_release-1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad.jar"
-      resolved="io.flutter:flutter_embedding_release:1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad"/>
+      name="io.flutter:flutter_embedding_release:1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1@jar"
+      jars="C:\Users\HP\.gradle\caches\modules-2\files-2.1\io.flutter\flutter_embedding_release\1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1\39ed0f73ad3b3f5d7b827c36980b96df6a6323dd\flutter_embedding_release-1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1.jar"
+      resolved="io.flutter:flutter_embedding_release:1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1"/>
   <library
       name="com.google.firebase:firebase-messaging:23.2.0@aar"
       jars="C:\Users\HP\.gradle\caches\transforms-3\f20127ba18f3f535653a184c2a432166\transformed\jetified-firebase-messaging-23.2.0\jars\classes.jar"
@@ -691,17 +691,17 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="io.flutter:armeabi_v7a_release:1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad@jar"
-      jars="C:\Users\HP\.gradle\caches\modules-2\files-2.1\io.flutter\armeabi_v7a_release\1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad\21a5cb43a402726a8905d8797620c22372dec458\armeabi_v7a_release-1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad.jar"
-      resolved="io.flutter:armeabi_v7a_release:1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad"/>
+      name="io.flutter:armeabi_v7a_release:1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1@jar"
+      jars="C:\Users\HP\.gradle\caches\modules-2\files-2.1\io.flutter\armeabi_v7a_release\1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1\8afb416ab778071c82329db04d83ed18ff71143a\armeabi_v7a_release-1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1.jar"
+      resolved="io.flutter:armeabi_v7a_release:1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1"/>
   <library
-      name="io.flutter:arm64_v8a_release:1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad@jar"
-      jars="C:\Users\HP\.gradle\caches\modules-2\files-2.1\io.flutter\arm64_v8a_release\1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad\db8660f2824f104d8a5f9de2f25c4647e7cfa790\arm64_v8a_release-1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad.jar"
-      resolved="io.flutter:arm64_v8a_release:1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad"/>
+      name="io.flutter:arm64_v8a_release:1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1@jar"
+      jars="C:\Users\HP\.gradle\caches\modules-2\files-2.1\io.flutter\arm64_v8a_release\1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1\23b8e37cf730c374e5905da15d377764c6f28c5a\arm64_v8a_release-1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1.jar"
+      resolved="io.flutter:arm64_v8a_release:1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1"/>
   <library
-      name="io.flutter:x86_64_release:1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad@jar"
-      jars="C:\Users\HP\.gradle\caches\modules-2\files-2.1\io.flutter\x86_64_release\1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad\be3ac06bf6d8e55353584aae8be4a8d04881fd79\x86_64_release-1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad.jar"
-      resolved="io.flutter:x86_64_release:1.0.0-0545f8705df301877d787107bac1a6e9fc9ee1ad"/>
+      name="io.flutter:x86_64_release:1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1@jar"
+      jars="C:\Users\HP\.gradle\caches\modules-2\files-2.1\io.flutter\x86_64_release\1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1\441e11e5b46ff33718a1049146b49efc1e0e411e\x86_64_release-1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1.jar"
+      resolved="io.flutter:x86_64_release:1.0.0-cf7a9d0800f2a5da166dbe0eb9fb2476018269b1"/>
   <library
       name="com.google.android.datatransport:transport-backend-cct:3.1.8@aar"
       jars="C:\Users\HP\.gradle\caches\transforms-3\3c7d3fcd5b2a642f1a2db7a50b9cb1aa\transformed\jetified-transport-backend-cct-3.1.8\jars\classes.jar"

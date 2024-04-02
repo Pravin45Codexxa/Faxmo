@@ -40,6 +40,8 @@ dependencies:
   flutter_local_notifications: ^14.1.1
   firebase_dynamic_links: ^5.3.3
   firebase_in_app_messaging: ^0.7.3+3
+  firebase_ui_firestore: ^10.23.0
+
 
   #to create webview  
   flutter_inappwebview: ^5.7.2+3

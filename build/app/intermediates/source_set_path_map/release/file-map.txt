@@ -1,61 +1,61 @@
-com.blizzex.user.app-main-0 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\main\res
-com.blizzex.user.app-release-1 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\android\app\src\release\res
-com.blizzex.user.app-google-services-2 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\generated\res\google-services\release
-com.blizzex.user.app-pngs-3 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\generated\res\pngs\release
-com.blizzex.user.app-resValues-4 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\generated\res\resValues\release
-com.blizzex.user.app-rs-5 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\generated\res\rs\release
-com.blizzex.user.app-mergeReleaseResources-6 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
-com.blizzex.user.app-mergeReleaseResources-7 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-com.blizzex.user.app-merged_res-8 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\intermediates\merged_res\release
-com.blizzex.user.app-packaged_res-9 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\connectivity_plus\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-10 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\device_info_plus\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-11 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_core\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-12 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_dynamic_links\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-13 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_in_app_messaging\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-14 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\firebase_messaging\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-15 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-16 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_local_notifications\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-17 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\google_mobile_ads\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-18 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\in_app_review\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-19 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\path_provider_android\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-20 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\permission_handler_android\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-21 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\share_plus\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-22 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\shared_preferences_android\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-23 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\url_launcher_android\intermediates\packaged_res\release
-com.blizzex.user.app-packaged_res-24 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\webview_flutter_android\intermediates\packaged_res\release
-com.blizzex.user.app-cardview-1.0.0-25 C:\Users\HP\.gradle\caches\transforms-3\057fe24c6994218bc111d4ece5f8b328\transformed\cardview-1.0.0\res
-com.blizzex.user.app-lifecycle-runtime-2.5.1-26 C:\Users\HP\.gradle\caches\transforms-3\0af4fc86bdbef028350655a6d7917f80\transformed\lifecycle-runtime-2.5.1\res
-com.blizzex.user.app-jetified-appcompat-resources-1.5.1-27 C:\Users\HP\.gradle\caches\transforms-3\0da2de63c5c8e2eff10867ff2c070f6e\transformed\jetified-appcompat-resources-1.5.1\res
-com.blizzex.user.app-jetified-core-common-2.0.2-28 C:\Users\HP\.gradle\caches\transforms-3\12b3a7804e448a8ebf3d245bac84ade6\transformed\jetified-core-common-2.0.2\res
-com.blizzex.user.app-lifecycle-viewmodel-2.5.1-29 C:\Users\HP\.gradle\caches\transforms-3\1344c0c33f71a1869026ff583a049b59\transformed\lifecycle-viewmodel-2.5.1\res
-com.blizzex.user.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-30 C:\Users\HP\.gradle\caches\transforms-3\13e3950c2185f9311339fbd419e13a4a\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
-com.blizzex.user.app-work-runtime-2.7.0-31 C:\Users\HP\.gradle\caches\transforms-3\20fa0b76ab246a35252a508aef3f338a\transformed\work-runtime-2.7.0\res
-com.blizzex.user.app-jetified-startup-runtime-1.1.1-32 C:\Users\HP\.gradle\caches\transforms-3\22f208e0e1eff8a406c1ae6a231cfa8f\transformed\jetified-startup-runtime-1.1.1\res
-com.blizzex.user.app-jetified-activity-1.5.1-33 C:\Users\HP\.gradle\caches\transforms-3\2438f96bb9270220cb649d7925b81c3d\transformed\jetified-activity-1.5.1\res
-com.blizzex.user.app-coordinatorlayout-1.0.0-34 C:\Users\HP\.gradle\caches\transforms-3\26013a1751e67c2d6b65303087cb8826\transformed\coordinatorlayout-1.0.0\res
-com.blizzex.user.app-jetified-firebase-inappmessaging-display-20.3.2-35 C:\Users\HP\.gradle\caches\transforms-3\2956417c57b4e6fd50348e6eb703d173\transformed\jetified-firebase-inappmessaging-display-20.3.2\res
-com.blizzex.user.app-swiperefreshlayout-1.1.0-36 C:\Users\HP\.gradle\caches\transforms-3\2994ebb4a111e9babbb2ddd019c8aec3\transformed\swiperefreshlayout-1.1.0\res
-com.blizzex.user.app-jetified-firebase-common-20.3.3-37 C:\Users\HP\.gradle\caches\transforms-3\30272faf7bc53235fba071dbb67802fd\transformed\jetified-firebase-common-20.3.3\res
-com.blizzex.user.app-localbroadcastmanager-1.1.0-38 C:\Users\HP\.gradle\caches\transforms-3\31beea7491c37422bb4385e3dbc532a6\transformed\localbroadcastmanager-1.1.0\res
-com.blizzex.user.app-webkit-1.7.0-39 C:\Users\HP\.gradle\caches\transforms-3\34d8bc1598a97a8fe78c70a711b4bce9\transformed\webkit-1.7.0\res
-com.blizzex.user.app-jetified-emoji2-1.2.0-40 C:\Users\HP\.gradle\caches\transforms-3\36fe8e7d48bf7c0cbd48de7db67ff602\transformed\jetified-emoji2-1.2.0\res
-com.blizzex.user.app-jetified-play-services-base-18.0.1-41 C:\Users\HP\.gradle\caches\transforms-3\379264fe9bebafae6b25665bd4fef9e1\transformed\jetified-play-services-base-18.0.1\res
-com.blizzex.user.app-constraintlayout-2.1.4-42 C:\Users\HP\.gradle\caches\transforms-3\3a7be5fb59d48f2448444c33d33c7e7e\transformed\constraintlayout-2.1.4\res
-com.blizzex.user.app-jetified-play-services-ads-lite-22.0.0-43 C:\Users\HP\.gradle\caches\transforms-3\3e5e115e57f80200cd976b0cdb7ca9c5\transformed\jetified-play-services-ads-lite-22.0.0\res
-com.blizzex.user.app-jetified-lifecycle-process-2.4.1-44 C:\Users\HP\.gradle\caches\transforms-3\3f6546bace1f78b431d83a3412e5baae\transformed\jetified-lifecycle-process-2.4.1\res
-com.blizzex.user.app-media-1.1.0-45 C:\Users\HP\.gradle\caches\transforms-3\5a49308702088089fb1878455b44035e\transformed\media-1.1.0\res
-com.blizzex.user.app-jetified-window-1.0.0-beta04-46 C:\Users\HP\.gradle\caches\transforms-3\5deaebdf149990256eac4ae296e186ee\transformed\jetified-window-1.0.0-beta04\res
-com.blizzex.user.app-jetified-savedstate-1.2.0-47 C:\Users\HP\.gradle\caches\transforms-3\5f0dc3eb9a049af313a23977807cc562\transformed\jetified-savedstate-1.2.0\res
-com.blizzex.user.app-jetified-annotation-experimental-1.3.0-48 C:\Users\HP\.gradle\caches\transforms-3\67fcd5fb099e1c9d12f3206c35f83ab9\transformed\jetified-annotation-experimental-1.3.0\res
-com.blizzex.user.app-jetified-window-java-1.0.0-beta04-49 C:\Users\HP\.gradle\caches\transforms-3\79990c5d8809f6b167b89b8f3b85c12b\transformed\jetified-window-java-1.0.0-beta04\res
-com.blizzex.user.app-jetified-play-services-basement-18.1.0-50 C:\Users\HP\.gradle\caches\transforms-3\96b6966e59add2e4656a039a27d6c01c\transformed\jetified-play-services-basement-18.1.0\res
-com.blizzex.user.app-core-1.9.0-51 C:\Users\HP\.gradle\caches\transforms-3\9f0d5e2777ccd53439bce99e51147f60\transformed\core-1.9.0\res
-com.blizzex.user.app-appcompat-1.5.1-52 C:\Users\HP\.gradle\caches\transforms-3\a93457358a4d2fc700bdb89cdeb1c992\transformed\appcompat-1.5.1\res
-com.blizzex.user.app-lifecycle-livedata-core-2.5.1-53 C:\Users\HP\.gradle\caches\transforms-3\ac2028a1e86910c53abde812b5652776\transformed\lifecycle-livedata-core-2.5.1\res
-com.blizzex.user.app-browser-1.4.0-54 C:\Users\HP\.gradle\caches\transforms-3\ce0eb1dabe7fd941670e837bf87f8bd7\transformed\browser-1.4.0\res
-com.blizzex.user.app-jetified-glide-4.11.0-55 C:\Users\HP\.gradle\caches\transforms-3\def45befa1f470e52cb53f8bb9b22aa4\transformed\jetified-glide-4.11.0\res
-com.blizzex.user.app-fragment-1.3.6-56 C:\Users\HP\.gradle\caches\transforms-3\dffa1ac5a8af02de1236d20182678000\transformed\fragment-1.3.6\res
-com.blizzex.user.app-jetified-play-services-ads-22.0.0-57 C:\Users\HP\.gradle\caches\transforms-3\e359ff193ac5c2134aca10fdf9704d37\transformed\jetified-play-services-ads-22.0.0\res
-com.blizzex.user.app-jetified-core-ktx-1.9.0-58 C:\Users\HP\.gradle\caches\transforms-3\eecd4ea1e463ac8c170cfda3f434ec5b\transformed\jetified-core-ktx-1.9.0\res
-com.blizzex.user.app-jetified-firebase-messaging-23.2.0-59 C:\Users\HP\.gradle\caches\transforms-3\f20127ba18f3f535653a184c2a432166\transformed\jetified-firebase-messaging-23.2.0\res
-com.blizzex.user.app-jetified-emoji2-views-helper-1.2.0-60 C:\Users\HP\.gradle\caches\transforms-3\fa3ea65fb65228d33b8951e0d60e0498\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.faxmo.user.app-main-0 C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\main\res
+com.faxmo.user.app-release-1 C:\Android Projects\Faxmo\blizzexwebapp\android\app\src\release\res
+com.faxmo.user.app-google-services-2 C:\Android Projects\Faxmo\blizzexwebapp\build\app\generated\res\google-services\release
+com.faxmo.user.app-pngs-3 C:\Android Projects\Faxmo\blizzexwebapp\build\app\generated\res\pngs\release
+com.faxmo.user.app-resValues-4 C:\Android Projects\Faxmo\blizzexwebapp\build\app\generated\res\resValues\release
+com.faxmo.user.app-rs-5 C:\Android Projects\Faxmo\blizzexwebapp\build\app\generated\res\rs\release
+com.faxmo.user.app-mergeReleaseResources-6 C:\Android Projects\Faxmo\blizzexwebapp\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.faxmo.user.app-mergeReleaseResources-7 C:\Android Projects\Faxmo\blizzexwebapp\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.faxmo.user.app-merged_res-8 C:\Android Projects\Faxmo\blizzexwebapp\build\app\intermediates\merged_res\release
+com.faxmo.user.app-packaged_res-9 C:\Android Projects\Faxmo\blizzexwebapp\build\connectivity_plus\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-10 C:\Android Projects\Faxmo\blizzexwebapp\build\device_info_plus\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-11 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_core\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-12 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_dynamic_links\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-13 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_in_app_messaging\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-14 C:\Android Projects\Faxmo\blizzexwebapp\build\firebase_messaging\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-15 C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-16 C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_local_notifications\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-17 C:\Android Projects\Faxmo\blizzexwebapp\build\google_mobile_ads\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-18 C:\Android Projects\Faxmo\blizzexwebapp\build\in_app_review\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-19 C:\Android Projects\Faxmo\blizzexwebapp\build\path_provider_android\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-20 C:\Android Projects\Faxmo\blizzexwebapp\build\permission_handler_android\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-21 C:\Android Projects\Faxmo\blizzexwebapp\build\share_plus\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-22 C:\Android Projects\Faxmo\blizzexwebapp\build\shared_preferences_android\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-23 C:\Android Projects\Faxmo\blizzexwebapp\build\url_launcher_android\intermediates\packaged_res\release
+com.faxmo.user.app-packaged_res-24 C:\Android Projects\Faxmo\blizzexwebapp\build\webview_flutter_android\intermediates\packaged_res\release
+com.faxmo.user.app-cardview-1.0.0-25 C:\Users\HP\.gradle\caches\transforms-3\057fe24c6994218bc111d4ece5f8b328\transformed\cardview-1.0.0\res
+com.faxmo.user.app-lifecycle-runtime-2.5.1-26 C:\Users\HP\.gradle\caches\transforms-3\0af4fc86bdbef028350655a6d7917f80\transformed\lifecycle-runtime-2.5.1\res
+com.faxmo.user.app-jetified-appcompat-resources-1.5.1-27 C:\Users\HP\.gradle\caches\transforms-3\0da2de63c5c8e2eff10867ff2c070f6e\transformed\jetified-appcompat-resources-1.5.1\res
+com.faxmo.user.app-jetified-core-common-2.0.2-28 C:\Users\HP\.gradle\caches\transforms-3\12b3a7804e448a8ebf3d245bac84ade6\transformed\jetified-core-common-2.0.2\res
+com.faxmo.user.app-lifecycle-viewmodel-2.5.1-29 C:\Users\HP\.gradle\caches\transforms-3\1344c0c33f71a1869026ff583a049b59\transformed\lifecycle-viewmodel-2.5.1\res
+com.faxmo.user.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-30 C:\Users\HP\.gradle\caches\transforms-3\13e3950c2185f9311339fbd419e13a4a\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.faxmo.user.app-work-runtime-2.7.0-31 C:\Users\HP\.gradle\caches\transforms-3\20fa0b76ab246a35252a508aef3f338a\transformed\work-runtime-2.7.0\res
+com.faxmo.user.app-jetified-startup-runtime-1.1.1-32 C:\Users\HP\.gradle\caches\transforms-3\22f208e0e1eff8a406c1ae6a231cfa8f\transformed\jetified-startup-runtime-1.1.1\res
+com.faxmo.user.app-jetified-activity-1.5.1-33 C:\Users\HP\.gradle\caches\transforms-3\2438f96bb9270220cb649d7925b81c3d\transformed\jetified-activity-1.5.1\res
+com.faxmo.user.app-coordinatorlayout-1.0.0-34 C:\Users\HP\.gradle\caches\transforms-3\26013a1751e67c2d6b65303087cb8826\transformed\coordinatorlayout-1.0.0\res
+com.faxmo.user.app-jetified-firebase-inappmessaging-display-20.3.2-35 C:\Users\HP\.gradle\caches\transforms-3\2956417c57b4e6fd50348e6eb703d173\transformed\jetified-firebase-inappmessaging-display-20.3.2\res
+com.faxmo.user.app-swiperefreshlayout-1.1.0-36 C:\Users\HP\.gradle\caches\transforms-3\2994ebb4a111e9babbb2ddd019c8aec3\transformed\swiperefreshlayout-1.1.0\res
+com.faxmo.user.app-jetified-firebase-common-20.3.3-37 C:\Users\HP\.gradle\caches\transforms-3\30272faf7bc53235fba071dbb67802fd\transformed\jetified-firebase-common-20.3.3\res
+com.faxmo.user.app-localbroadcastmanager-1.1.0-38 C:\Users\HP\.gradle\caches\transforms-3\31beea7491c37422bb4385e3dbc532a6\transformed\localbroadcastmanager-1.1.0\res
+com.faxmo.user.app-webkit-1.7.0-39 C:\Users\HP\.gradle\caches\transforms-3\34d8bc1598a97a8fe78c70a711b4bce9\transformed\webkit-1.7.0\res
+com.faxmo.user.app-jetified-emoji2-1.2.0-40 C:\Users\HP\.gradle\caches\transforms-3\36fe8e7d48bf7c0cbd48de7db67ff602\transformed\jetified-emoji2-1.2.0\res
+com.faxmo.user.app-jetified-play-services-base-18.0.1-41 C:\Users\HP\.gradle\caches\transforms-3\379264fe9bebafae6b25665bd4fef9e1\transformed\jetified-play-services-base-18.0.1\res
+com.faxmo.user.app-constraintlayout-2.1.4-42 C:\Users\HP\.gradle\caches\transforms-3\3a7be5fb59d48f2448444c33d33c7e7e\transformed\constraintlayout-2.1.4\res
+com.faxmo.user.app-jetified-play-services-ads-lite-22.0.0-43 C:\Users\HP\.gradle\caches\transforms-3\3e5e115e57f80200cd976b0cdb7ca9c5\transformed\jetified-play-services-ads-lite-22.0.0\res
+com.faxmo.user.app-jetified-lifecycle-process-2.4.1-44 C:\Users\HP\.gradle\caches\transforms-3\3f6546bace1f78b431d83a3412e5baae\transformed\jetified-lifecycle-process-2.4.1\res
+com.faxmo.user.app-media-1.1.0-45 C:\Users\HP\.gradle\caches\transforms-3\5a49308702088089fb1878455b44035e\transformed\media-1.1.0\res
+com.faxmo.user.app-jetified-window-1.0.0-beta04-46 C:\Users\HP\.gradle\caches\transforms-3\5deaebdf149990256eac4ae296e186ee\transformed\jetified-window-1.0.0-beta04\res
+com.faxmo.user.app-jetified-savedstate-1.2.0-47 C:\Users\HP\.gradle\caches\transforms-3\5f0dc3eb9a049af313a23977807cc562\transformed\jetified-savedstate-1.2.0\res
+com.faxmo.user.app-jetified-annotation-experimental-1.3.0-48 C:\Users\HP\.gradle\caches\transforms-3\67fcd5fb099e1c9d12f3206c35f83ab9\transformed\jetified-annotation-experimental-1.3.0\res
+com.faxmo.user.app-jetified-window-java-1.0.0-beta04-49 C:\Users\HP\.gradle\caches\transforms-3\79990c5d8809f6b167b89b8f3b85c12b\transformed\jetified-window-java-1.0.0-beta04\res
+com.faxmo.user.app-jetified-play-services-basement-18.1.0-50 C:\Users\HP\.gradle\caches\transforms-3\96b6966e59add2e4656a039a27d6c01c\transformed\jetified-play-services-basement-18.1.0\res
+com.faxmo.user.app-core-1.9.0-51 C:\Users\HP\.gradle\caches\transforms-3\9f0d5e2777ccd53439bce99e51147f60\transformed\core-1.9.0\res
+com.faxmo.user.app-appcompat-1.5.1-52 C:\Users\HP\.gradle\caches\transforms-3\a93457358a4d2fc700bdb89cdeb1c992\transformed\appcompat-1.5.1\res
+com.faxmo.user.app-lifecycle-livedata-core-2.5.1-53 C:\Users\HP\.gradle\caches\transforms-3\ac2028a1e86910c53abde812b5652776\transformed\lifecycle-livedata-core-2.5.1\res
+com.faxmo.user.app-browser-1.4.0-54 C:\Users\HP\.gradle\caches\transforms-3\ce0eb1dabe7fd941670e837bf87f8bd7\transformed\browser-1.4.0\res
+com.faxmo.user.app-jetified-glide-4.11.0-55 C:\Users\HP\.gradle\caches\transforms-3\def45befa1f470e52cb53f8bb9b22aa4\transformed\jetified-glide-4.11.0\res
+com.faxmo.user.app-fragment-1.3.6-56 C:\Users\HP\.gradle\caches\transforms-3\dffa1ac5a8af02de1236d20182678000\transformed\fragment-1.3.6\res
+com.faxmo.user.app-jetified-play-services-ads-22.0.0-57 C:\Users\HP\.gradle\caches\transforms-3\e359ff193ac5c2134aca10fdf9704d37\transformed\jetified-play-services-ads-22.0.0\res
+com.faxmo.user.app-jetified-core-ktx-1.9.0-58 C:\Users\HP\.gradle\caches\transforms-3\eecd4ea1e463ac8c170cfda3f434ec5b\transformed\jetified-core-ktx-1.9.0\res
+com.faxmo.user.app-jetified-firebase-messaging-23.2.0-59 C:\Users\HP\.gradle\caches\transforms-3\f20127ba18f3f535653a184c2a432166\transformed\jetified-firebase-messaging-23.2.0\res
+com.faxmo.user.app-jetified-emoji2-views-helper-1.2.0-60 C:\Users\HP\.gradle\caches\transforms-3\fa3ea65fb65228d33b8951e0d60e0498\transformed\jetified-emoji2-views-helper-1.2.0\res

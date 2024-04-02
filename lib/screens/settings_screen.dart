@@ -96,6 +96,7 @@ class _SettingsScreenState extends State<SettingsScreen>
                       trailing: Icon(
                         Icons.arrow_forward_ios_rounded,
                         color: Theme.of(context).iconTheme.color,
+
                       ),
                       onTap: () => _onPressed(AppContentScreen(
                           title: CustomStrings.privacyPolicy,
@@ -151,6 +152,7 @@ class _SettingsScreenState extends State<SettingsScreen>
       ),
     );
   }
+
 
   rateApp(BuildContext context) async {
     if (Platform.isIOS) {

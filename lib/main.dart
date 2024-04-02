@@ -140,7 +140,6 @@ class _MyAppState extends State<MyApp> {
       child: Consumer<ThemeProvider>(builder: (context, value, child) {
         return MaterialApp(
           title: appName,
-          debugShowCheckedModeBanner: false,
           themeMode: value.getTheme(),
           theme: AppThemes.lightTheme,
           darkTheme: AppThemes.darkTheme,
@@ -151,9 +150,7 @@ class _MyAppState extends State<MyApp> {
                 return CupertinoPageRoute(builder: (_) => SettingsScreen());
             }
           },
-          home: showSplashScreen
-              ? SplashScreen()
-              : MyHomePage(
+          home: MyHomePage(
                   webUrl: webinitialUrl,
                 ),
         );

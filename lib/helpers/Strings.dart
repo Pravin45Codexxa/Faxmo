@@ -48,4 +48,5 @@ class CustomStrings {
   static const String onboardingDesc3 =
       'It will be much better, as there are a lot of functions that can\'t be done with webview only';
   static const String done = 'Done';
+
 }

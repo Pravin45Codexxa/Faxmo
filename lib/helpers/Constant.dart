@@ -3,15 +3,15 @@ import 'package:prime_web/helpers/icons.dart';
 
 import 'Strings.dart';
 
-const appName = 'Blizzex';
+const appName = 'Faxmo';
 
-const String appbartitle = 'Blizzex';
-const String andoidPackageName = 'com.blizzex.user';
+const String appbartitle = 'Faxmo';
+const String andoidPackageName = 'com.faxmo.user';
 
 //change this url to set your URL in app
 const String webinitialUrl =
-    'https://blizzex.com/';
-const String firstTabUrl = 'https://blizzex.com/';
+    'https://app.faxmo.ng/';
+const String firstTabUrl = 'https://app.faxmo.ng/';
 
 //keep local content of pages of setting screen
 const String aboutPageURL = '';

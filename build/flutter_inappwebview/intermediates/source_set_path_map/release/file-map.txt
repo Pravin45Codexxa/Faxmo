@@ -1,8 +1,8 @@
-com.pichillilorenzo.flutter_inappwebview-resValues-0 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\generated\res\resValues\release
-com.pichillilorenzo.flutter_inappwebview-rs-1 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\generated\res\rs\release
-com.pichillilorenzo.flutter_inappwebview-mergeReleaseResources-2 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\incremental\release\mergeReleaseResources\merged.dir
-com.pichillilorenzo.flutter_inappwebview-mergeReleaseResources-3 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-com.pichillilorenzo.flutter_inappwebview-merged_res-4 C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\merged_res\release
+com.pichillilorenzo.flutter_inappwebview-resValues-0 C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\generated\res\resValues\release
+com.pichillilorenzo.flutter_inappwebview-rs-1 C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\generated\res\rs\release
+com.pichillilorenzo.flutter_inappwebview-mergeReleaseResources-2 C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.pichillilorenzo.flutter_inappwebview-mergeReleaseResources-3 C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.pichillilorenzo.flutter_inappwebview-merged_res-4 C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\merged_res\release
 com.pichillilorenzo.flutter_inappwebview-lifecycle-runtime-2.5.1-5 C:\Users\HP\.gradle\caches\transforms-3\0af4fc86bdbef028350655a6d7917f80\transformed\lifecycle-runtime-2.5.1\res
 com.pichillilorenzo.flutter_inappwebview-core-1.8.0-6 C:\Users\HP\.gradle\caches\transforms-3\0b0d51c75fbf0309e3c814902f35f184\transformed\core-1.8.0\res
 com.pichillilorenzo.flutter_inappwebview-jetified-appcompat-resources-1.5.1-7 C:\Users\HP\.gradle\caches\transforms-3\0da2de63c5c8e2eff10867ff2c070f6e\transformed\jetified-appcompat-resources-1.5.1\res

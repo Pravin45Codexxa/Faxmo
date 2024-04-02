@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.blizzex.user.app-mergeReleaseResources-6:/values-v21/values-v21.xml",
+            "outputFile": "com.faxmo.user.app-mergeReleaseResources-6:/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\2956417c57b4e6fd50348e6eb703d173\\transformed\\jetified-firebase-inappmessaging-display-20.3.2\\res\\values-v21\\values-v21.xml",

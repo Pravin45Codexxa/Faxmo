@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.blizzex.user.app-mergeReleaseResources-6:/values-pt/values-pt.xml",
+            "outputFile": "com.faxmo.user.app-mergeReleaseResources-6:/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\ce0eb1dabe7fd941670e837bf87f8bd7\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",

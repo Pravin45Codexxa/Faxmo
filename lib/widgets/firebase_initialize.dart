@@ -21,7 +21,7 @@ class FirebaseInitialize {
   late AndroidNotificationChannel channel;
   initFirebaseState(BuildContext context) async {
     channel = const AndroidNotificationChannel(
-        'com.blizzex.user', // id
+        'com.faxmo.user', // id
         'Prime Web', // title
         description: 'Prime Web', // description
         importance: Importance.high,

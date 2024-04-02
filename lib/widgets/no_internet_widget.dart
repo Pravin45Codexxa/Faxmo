@@ -67,10 +67,10 @@ class _NoInternetWidgetState extends State<NoInternetWidget> {
           const SizedBox(
             height: 20,
           ),
-          _isLoading
-              ? CircularProgressIndicator(
+          /*_isLoading
+            *//*  ? CircularProgressIndicator(
                   color: Theme.of(context).primaryColor,
-                )
+                )*//*
               : TextButton(
                   child: const Text('Retry'),
                   style: ElevatedButton.styleFrom(
@@ -90,7 +90,7 @@ class _NoInternetWidgetState extends State<NoInternetWidget> {
                       });
                     });
                   },
-                )
+                )*/
         ],
       ),
     );

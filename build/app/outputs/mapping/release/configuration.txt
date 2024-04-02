@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.3.1
+# The proguard configuration file for the following section is C:\Android Projects\Faxmo\blizzexwebapp\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.3.1
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -116,7 +116,7 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.3.1
+# End of content from C:\Android Projects\Faxmo\blizzexwebapp\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.3.1
 # The proguard configuration file for the following section is C:\Users\HP\flutter_windows_3.3.3-stable\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro
 # Build the ephemeral app in a module project.
 # Prevents: Warning: library class <plugin-package> depends on program class io.flutter.plugin.**
@@ -127,7 +127,7 @@
 -dontwarn android.**
 
 # End of content from C:\Users\HP\flutter_windows_3.3.3-stable\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro
-# The proguard configuration file for the following section is C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
+# The proguard configuration file for the following section is C:\Android Projects\Faxmo\blizzexwebapp\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
 -keep class android.app.Application { <init>(); }
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
@@ -143,10 +143,10 @@
 -keep class androidx.work.impl.diagnostics.DiagnosticsReceiver { <init>(); }
 -keep class androidx.work.impl.foreground.SystemForegroundService { <init>(); }
 -keep class androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver { <init>(); }
--keep class com.blizzex.user.MainActivity { <init>(); }
 -keep class com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver { <init>(); }
 -keep class com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver { <init>(); }
 -keep class com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver { <init>(); }
+-keep class com.faxmo.user.MainActivity { <init>(); }
 -keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
 -keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
 -keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
@@ -259,8 +259,8 @@
 -keepclassmembers class * { *** shareButtonClicked(android.view.MenuItem); }
 
 
-# End of content from C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
-# The proguard configuration file for the following section is C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
+# End of content from C:\Android Projects\Faxmo\blizzexwebapp\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
+# The proguard configuration file for the following section is C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
 # WebView
 -keepattributes *JavascriptInterface*
 -keepclassmembers class * {
@@ -278,7 +278,7 @@
      private *;
 }
 -keep class com.pichillilorenzo.flutter_inappwebview.** { *; }
-# End of content from C:\Android Projects\primeweb_1.0.11\primeweb_1.0.11\primeWeb_firebase\build\flutter_inappwebview\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
+# End of content from C:\Android Projects\Faxmo\blizzexwebapp\build\flutter_inappwebview\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
 # The proguard configuration file for the following section is C:\Users\HP\.gradle\caches\transforms-3\5deaebdf149990256eac4ae296e186ee\transformed\jetified-window-1.0.0-beta04\proguard.txt
 # Copyright (C) 2020 The Android Open Source Project
 #
